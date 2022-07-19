@@ -1,2 +1,2 @@
 # SDRTechnicals
-Sales/Business Development Representative Interview Assignments
+Sales/Business Development Representative Technical Assignments
